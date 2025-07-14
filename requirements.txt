@@ -1,0 +1,4 @@
+python-dotenv==1.1.0
+openai==1.93.0
+pytest==8.3.5
+deepeval==3.0.0
